@@ -1,0 +1,21 @@
+actor_id;first_name;last_name;last_update
+71;Adam;Grant;2013-05-26 14:47:57.62
+72;Sean;Williams;2013-05-26 14:47:57.62
+73;Gary;Penn;2013-05-26 14:47:57.62
+74;Milla;Keitel;2013-05-26 14:47:57.62
+75;Burt;Posey;2013-05-26 14:47:57.62
+76;Angelina;Astaire;2013-05-26 14:47:57.62
+77;Cary;Mcconaughey;2013-05-26 14:47:57.62
+78;Groucho;Sinatra;2013-05-26 14:47:57.62
+79;Mae;Hoffman;2013-05-26 14:47:57.62
+80;Ralph;Cruz;2013-05-26 14:47:57.62
+81;Scarlett;Damon;2013-05-26 14:47:57.62
+82;Woody;Jolie;2013-05-26 14:47:57.62
+83;Ben;Willis;2013-05-26 14:47:57.62
+84;James;Pitt;2013-05-26 14:47:57.62
+85;Minnie;Zellweger;2013-05-26 14:47:57.62
+86;Greg;Chaplin;2013-05-26 14:47:57.62
+87;Spencer;Peck;2013-05-26 14:47:57.62
+88;Kenneth;Pesci;2013-05-26 14:47:57.62
+89;Charlize;Dench;2013-05-26 14:47:57.62
+90;Sean;Guiness;2013-05-26 14:47:57.62

@@ -1,0 +1,17 @@
+OBSERVAÇÕES:
+    "#" se começar com ele, é um comentário.
+    Usar uma linha por vez.
+
+### Instalação do OpenJDK8
+
+sudo apt install openjdk-8-jdk
+
+
+
+### Testa a instalação do OpenJDK8
+
+# Se foi instalado
+java -version
+
+# Se o compilador foi instalado
+javac -version

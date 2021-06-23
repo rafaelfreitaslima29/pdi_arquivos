@@ -1,0 +1,16 @@
+########## Fonte de Dados ##########
+
+https://sistemas.tce.pe.gov.br/DadosAbertos/Contratos!json?Esfera=M&Municipio=recife&AnoContrato=2020
+
+
+########## Visualizador de Json ##########
+
+http://jsonviewer.stack.hu/
+
+
+
+########## OUTRAS - Fonte de Dados ##########
+
+DADOS.GOV.BR
+https://dados.gov.br/dataset
+

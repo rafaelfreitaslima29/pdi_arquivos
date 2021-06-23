@@ -1,0 +1,6 @@
+ano_inclusao;frase;autor
+2000;A persistência é o caminho do êxito.;Charles Chaplin
+2005;Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.;Nemo Nox
+2006;O insucesso é apenas uma oportunidade para recomeçar com mais inteligência.;Henry Ford
+2010;Um bom começo é a metade.;Aristóteles
+2012;Você precisa fazer aquilo que pensa que não é capaz de fazer.;Eleanor Roosevelt

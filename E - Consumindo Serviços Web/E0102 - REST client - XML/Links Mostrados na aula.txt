@@ -1,0 +1,15 @@
+########## Fonte de Dados ##########
+
+https://sistemas.tce.pe.gov.br/DadosAbertos/Contratos!xml?Esfera=M&Municipio=recife&AnoContrato=2020
+
+
+########## Visualizador de XML ##########
+
+https://www.xmlviewer.org/
+
+
+########## OUTRAS - Fonte de Dados ##########
+
+DADOS.GOV.BR
+https://dados.gov.br/dataset
+

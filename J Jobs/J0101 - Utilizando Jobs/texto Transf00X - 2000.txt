@@ -1,0 +1,2 @@
+ano_inclusao;frase;autor;var_ano
+2000;A persistência é o caminho do êxito.                                       ;Charles Chaplin  ;2000

@@ -1,0 +1,2 @@
+ano_inclusao;frase;autor;var_ano
+2012;Você precisa fazer aquilo que pensa que não é capaz de fazer.              ;Eleanor Roosevelt;2012
